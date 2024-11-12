@@ -11,3 +11,4 @@ log = "0.4"
 pretty_env_logger = "0.5"
 tokio = { version =  "1.8", features = ["rt-multi-thread", "macros"] }
 dotenv = { version = "0.15.0", features = ["clap", "cli"] }
+rand = "0.8.5"
